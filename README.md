@@ -4,9 +4,9 @@ Repositório dedicado ao estudo do livro Data Science do zero: Primeiras regras 
 ## Sumário
 - [X] Prefácio
   - [X] A Ascenção dos dados
-  - [ ] O que é data science
-  - [ ] Motivação hipotética: DataSciencester
-  - [ ] Encontrando conectores chaves
+  - [X] O que é data science
+  - [X] Motivação hipotética: DataSciencester
+  - [X] Encontrando conectores chaves
   - [ ] Cientistas de dados que talvez você conheça
   - [ ] Salário e Experiência
   - [ ] Contas pagas
@@ -15,11 +15,11 @@ Repositório dedicado ao estudo do livro Data Science do zero: Primeiras regras 
 ## Curso Relâmpago de Python
 - [X] O básico
   - [X] Iniciando em Python
-  - [ ] Python Zen
-  - [ ] Formatação de espaço em branco
-  - [ ] Módulos
-  - [ ] Aritmética
-  - [ ] Funções
+  - [X] Python Zen
+  - [X] Formatação de espaço em branco
+  - [X] Módulos
+  - [X] Aritmética
+  - [X] Funções
   - [ ] Strings (cadeias de caracteres)
   - [ ] Exceções
   - [ ] Listas
